@@ -26,7 +26,10 @@
 @import url("../block/table/__heading/table__heading.css");
 @import url("../block/table/__text/table__text.css");
 
-
+@import url("../block/feynman/feynman.css");
+@import url("../block/feynman/__link/feynman__link.css");
+@import url("../block/feynman/__subtitle/feynman__subtitle.css");
+@import url("../block/feynman/__title/feynman__title.css");
 
 @import url("../block/margin/__botton/margin__botton-20.css");
 @import url("../block/margin/__botton/margin__botton-60.css");
